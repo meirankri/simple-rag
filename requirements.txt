@@ -4,3 +4,4 @@ python-dotenv
 langchain_groq
 PyPDF2
 chromadb
+langchain-huggingface
