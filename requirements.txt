@@ -5,3 +5,4 @@ langchain_groq
 PyPDF2
 chromadb
 langchain-huggingface
+flask
